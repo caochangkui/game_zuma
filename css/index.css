@@ -1,0 +1,12 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: lightblue;
+}
+#div1{
+	background: white;
+	width:600px;
+	margin: 20px auto;
+}
